@@ -44,5 +44,5 @@ A command-line banking system built using Java. Users can create accounts (Savin
 
 1. Clone or download the repo:
    ```bash
-   git clone https://github.com/rajeshbyreddy/BankSimulatorCLI.git
-   cd BankSimulatorCLI
+   git clone https://github.com/rajeshbyreddy95/BankSimulator.git
+   cd BankSimulator
